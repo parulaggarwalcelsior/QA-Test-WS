@@ -1,0 +1,18 @@
+{
+  "roots": [
+    "specs/001-rule-to-test-harness"
+  ],
+  "components": [
+    "Main",
+    "Library",
+    "Loan",
+    "Borrower",
+    "Book",
+    "Person",
+    "Staff",
+    "Librarian",
+    "Clerk",
+    "HoldRequest",
+    "HoldRequestOperations"
+  ]
+}
